@@ -2,7 +2,7 @@ Mango Ripening Classifier
 
 1. Overview
 
-]  The Mango Ripening Classifier is a machine learning-based project designed to classify mangoes into three ripeness stages: Raw, Ripe, and Rotten.
+   The Mango Ripening Classifier is a machine learning-based project designed to classify mangoes into three ripeness stages: Raw, Ripe, and Rotten.
    By leveraging deep learning and image processing techniques, this model provides an accurate assessment of mango ripeness from images.
 
 3. Features
